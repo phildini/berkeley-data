@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pypdf2 = "==2.5.0"
+sqlite-utils = "*"
+parsedatetime = "*"
+datasette = "*"
+black = "*"
+s3-ocr = "*"
+s3-credentials = "*"
+requests = "*"
+beautifulsoup4 = "*"
+xhtml2pdf = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
