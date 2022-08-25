@@ -132,3 +132,6 @@ dmypy.json
 
 # Someday hoping to add these back
 data/
+out/
+
+*.db

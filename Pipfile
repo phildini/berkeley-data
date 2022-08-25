@@ -14,6 +14,8 @@ s3-credentials = "*"
 requests = "*"
 beautifulsoup4 = "*"
 xhtml2pdf = "*"
+pillow = "*"
+pymupdf = "*"
 
 [dev-packages]
 
